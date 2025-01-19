@@ -1,0 +1,5 @@
+>gh auth login
+
+>gh repo list
+
+>gh repo create
