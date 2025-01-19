@@ -3,3 +3,5 @@
 >gh repo list
 
 >gh repo create
+
+>gh repo create linkedin-learning --private --clone
